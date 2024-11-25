@@ -3,6 +3,10 @@ A curated for my needs awesome list of things for a Macbook Pro.
 
 ## Applications
 - [Affinity Suite*](https://affinity.serif.com/en-us/) - One time purchase, no subscription Photo Editor
+- 3D Printing
+    - [Bambu Studio](https://bambulab.com/en-us/download/studio)
+    - [Orca Slicer](https://github.com/SoftFever/OrcaSlicer)
+    - [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/)
 - Browsers
     - [Brave Browser](https://brave.com/) - Privacy focused Chromium web browser
     - [Firefox](https://www.mozilla.org/en-US/firefox/) - Firefox web browser, a non-Chromium option
@@ -16,8 +20,9 @@ A curated for my needs awesome list of things for a Macbook Pro.
 ## macOS enhancements
 - [BentoBox*](https://bentoboxapp.com/) - Window Manager a la Windows PowerToys FancyZones
 - [Ice<sup>+</sup>](https://icemenubar.app/) - Menu Bar management tool
-- [LG TV Control](https://github.com/cmer/lg-tv-control-macos/) - LG TV Control for macOS - better integration of LG OLED TV with Macbook Pro
-    - [Hammerspoon](https://www.hammerspoon.org/) - macOS automation framework
+- [Hammerspoon](https://www.hammerspoon.org/) - macOS automation framework
+    - [LG TV Control](https://github.com/cmer/lg-tv-control-macos/) - LG TV Control for macOS - better integration of LG OLED TV with Macbook Pro
+    - [Bluetooth Control](https://github.com/Hammerspoon/hammerspoon/issues/793) - Bluetooth control
 - [Maccy<sup>+</sup>](https://maccy.app/) - Clipboard manager
 - [ProNotes](https://www.pronotes.app/) - Apple Notes extension to add editing in Markdown
 - [Rectangle](https://rectangleapp.com/) - Another Window Manager that has Windows-like keyboard shortcuts
