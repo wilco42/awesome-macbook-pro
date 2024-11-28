@@ -1,6 +1,11 @@
 # awesome-macbook-pro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated for my needs awesome list of things for a Macbook Pro.
 
+## AI
+- [Jan](https://jan.ai/) - open source ChatGPT-alternative running your choice of local LLMs 100% offline, also provides an OpenAI compatible local server
+- [LM Studio](https://lmstudio.ai/) - closed source ChatGPT-alternative
+- [Continue](https://www.continue.dev/) - VS Code extension that enables AI code assistance
+
 ## Applications
 - [Affinity Suite*](https://affinity.serif.com/en-us/) - One time purchase, no subscription Photo Editor
 - 3D Printing
