@@ -19,6 +19,9 @@ A curated for my needs awesome list of things for a Macbook Pro.
         - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) - Ad blocker
         - [Bitwarden](https://bitwarden.com/) - Password Manager extension
         - [Window Resizer](https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
+- [Crossover*](https://www.codeweavers.com/crossover) - Run Windows applications on Mac
+    - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic, GOG, Amazon Prime game alternative launcher
+        - [Discussion on how to get Crossover to find Heroic Bottle](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/discussions/1567) - tldr; `cd ~/Library/Application\ Support/CrossOver/Bottles; ln -s ~/CXPBottles/Heroic`
 - [Discord](https://discord.com/) - Gaming messaging app
 - [Slack<sup>+</sup>](https://slack.com/downloads/mac) - Slack messaging app
 
