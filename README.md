@@ -2,12 +2,21 @@
 A curated for my needs awesome list of things for a Macbook Pro.
 
 ## AI
-- [Jan](https://jan.ai/) - open source ChatGPT-alternative running your choice of local LLMs 100% offline, also provides an OpenAI compatible local server
-- [LM Studio](https://lmstudio.ai/) - closed source ChatGPT-alternative
-- [Continue](https://www.continue.dev/) - VS Code extension that enables AI code assistance
+- Cloud LLM
+    - Anthropic
+        - [Claude Code](https://claude.com/product/claude-code) - Claude Code CLI
+        - [Claude Code IDE Extension](https://code.claude.com/docs/en/vs-code) - Visual Studio Code IDE extension
+    - OpenAI
+        - [Codex Desktop](https://chatgpt.com/codex/) - Desktop app with vision-based automation
+        - [Codex CLI](https://developers.openai.com/codex/cli) - Codex CLI - OpenAI's version of Claude Code
+        - [Codex IDE Extension](https://developers.openai.com/codex/quickstart?setup=ide) - Visual Studio Code IDE extension
+- Local LLM
+    - [Jan](https://jan.ai/) - open source ChatGPT-alternative running your choice of local LLMs 100% offline, also provides an OpenAI compatible local server
+    - [Ollama](https://ollama.com/) - local LLM runner
+    - [Continue](https://www.continue.dev/) - VS Code extension that enables AI code assistance
 
 ## Applications
-- [Affinity Suite*](https://affinity.serif.com/en-us/) - One time purchase, no subscription Photo Editor
+- [Affinity](https://www.affinity.studio/) - Photo/Vector/Layout Editor
 - 3D Printing
     - [Bambu Studio](https://bambulab.com/en-us/download/studio)
     - [Orca Slicer](https://github.com/SoftFever/OrcaSlicer)
@@ -32,6 +41,7 @@ A curated for my needs awesome list of things for a Macbook Pro.
 
 ## macOS enhancements
 - [BentoBox*](https://bentoboxapp.com/) - Window Manager a la Windows PowerToys FancyZones
+- [flex-markdown](https://github.com/xykong/flux-markdown) - Markdown Preview in Finder
 - [Ice<sup>+</sup>](https://icemenubar.app/) - Menu Bar management tool
 - [Hammerspoon](https://www.hammerspoon.org/) - macOS automation framework
     - [LG TV Control](https://github.com/cmer/lg-tv-control-macos/) - LG TV Control for macOS - better integration of LG OLED TV with Macbook Pro
@@ -40,12 +50,12 @@ A curated for my needs awesome list of things for a Macbook Pro.
 - [Raycast](https://www.raycast.com/) - Spotlight replacement, clipboard manager, emoji app
 - [Rectangle](https://rectangleapp.com/) - Another Window Manager that has Windows-like keyboard shortcuts
 - [Witch*](https://manytricks.com/witch/) - Enhanced macOS app switcher
-    - [AltTab](https://alt-tab-macos.netlify.app/) - potential free replacement
+    - [DockDoor](https://dockdoor.net/) - potential free replacement
 
 ## Security Applications
 - [Bitwarden](https://bitwarden.com/) - Password Manager
 - [cloudflared](https://formulae.brew.sh/formula/cloudflared) - [macOS DNS over HTTPS](https://blog.smittytone.net/2022/05/07/how-to-do-dns-over-https-on-macos/) on local AdGuard Home DNS servers
-- [ExpressVPN*](https://www.expressvpn.com/) - ExpressVPN - current VPN of choice
+- [NordVPN*](https://www.nordvpn.com/) - NordVPN - current VPN of choice
 
 ## Programming Applications
 - [Homebrew](https://brew.sh/) - Package manager for macOS
