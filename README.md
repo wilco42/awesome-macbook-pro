@@ -42,7 +42,7 @@ A curated for my needs awesome list of things for a Macbook Pro.
 ## macOS enhancements
 - [BentoBox*](https://bentoboxapp.com/) - Window Manager a la Windows PowerToys FancyZones
 - [flex-markdown](https://github.com/xykong/flux-markdown) - Markdown Preview in Finder
-- [Ice<sup>+</sup>](https://icemenubar.app/) - Menu Bar management tool
+- [Thaw](https://github.com/thaw-app/Thaw) - Menu Bar management tool
 - [Hammerspoon](https://www.hammerspoon.org/) - macOS automation framework
     - [LG TV Control](https://github.com/cmer/lg-tv-control-macos/) - LG TV Control for macOS - better integration of LG OLED TV with Macbook Pro
     - [Bluetooth Control](https://github.com/Hammerspoon/hammerspoon/issues/793) - Bluetooth control
